@@ -10,9 +10,10 @@
 - macOS Sonoma v14.4
 - HDMI/DP
 - iCloud
+- Internal Sound Card
 
 ## What Doesn't Work
-- X99 Internal Sound Card
+- Front Usb's
 
 ## Geekbench Results:
 - MacPro7,1 ([GeekBench](https://browser.geekbench.com/v6/cpu/5113815))
