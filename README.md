@@ -1,4 +1,4 @@
-# EFI-ZSUS-X99-P4-XEON-E5-2650-V4-RX6700XT
+# EFI-ZSUS-X99-P4-XEON-E5-2650-V4-RX580
 
 ## Complete Hardware Specs
 - Xeon E5-2650 V4 @ In Stock
@@ -7,7 +7,7 @@
 - 8GB DRR4 2666Mhz
 
 ## What Works
-- macOS Ventura 13.6.3
+- macOS Sonoma v14.4
 - HDMI/DP
 - iCloud
 
@@ -15,7 +15,7 @@
 - X99 Internal Sound Card
 
 ## Geekbench Results:
-- iMacPro1,1 (no ready yet)
+- MacPro7,1 ([GeekBench](https://browser.geekbench.com/v6/cpu/5113815))
 
 ## Observation
 - You need to configure your <a href="https://github.com/corpnewt/GenSMBIOS">SMBIOS</a>
