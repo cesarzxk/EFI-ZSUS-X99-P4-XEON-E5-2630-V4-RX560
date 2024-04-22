@@ -3,7 +3,7 @@
 ## Complete Hardware Specs
 - Xeon E5-2650 V4 @ In Stock
 - ZSUS X99 P4
-- RX 6700 XT
+- RX 580 8GB Nitro
 - 8GB DRR4 2666Mhz
 
 ## What Works
