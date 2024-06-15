@@ -15,6 +15,7 @@
 
 ## What Doesn't Work
 - Bluetooth and Wifi fenvi
+- Frontal microphone
 
 ## Geekbench Results:
 - MacPro7,1 ([GeekBench](https://browser.geekbench.com/v6/cpu/5113815))
