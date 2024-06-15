@@ -14,7 +14,7 @@
 - Front usbs
 
 ## What Doesn't Work
-- Bluetooth and Wifi
+- Bluetooth and Wifi fenvi
 
 ## Geekbench Results:
 - MacPro7,1 ([GeekBench](https://browser.geekbench.com/v6/cpu/5113815))
