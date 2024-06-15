@@ -11,9 +11,10 @@
 - HDMI/DP
 - iCloud
 - Internal Sound Card
+- Front usbs
 
 ## What Doesn't Work
-- Front Usb's
+- Bluetooth and Wifi
 
 ## Geekbench Results:
 - MacPro7,1 ([GeekBench](https://browser.geekbench.com/v6/cpu/5113815))
