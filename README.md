@@ -1,10 +1,10 @@
-# EFI-ZSUS-X99-P4-XEON-E5-2650-V4-RX580
+# EFI-ZSUS-X99-P4-XEON-E5-2630-V4-RX560
 
 ## Complete Hardware Specs
-- Xeon E5-2650 V4 @ In Stock
+- Xeon E5-2630 V4 @ In Stock
 - ZSUS X99 P4
-- RX 580 8GB Nitro
-- 8GB DRR4 2666Mhz
+- RX 560 4GB 
+- 16GB DRR4 2666Mhz
 
 ## What Works
 - macOS Sonoma v14.4
